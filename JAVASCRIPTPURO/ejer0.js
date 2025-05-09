@@ -36,7 +36,7 @@ if (valor===5){
     console.log("cinco")
 }
 
-if (valor|==1 && valor|==2  && valor|==3  && valor|==4 && valor|==5){
+if (valor==1 && valor==2  && valor==3  && valor==4 && valor==5){
     console.log(" direfente valor de 1 a 5 ")
 } 
 
